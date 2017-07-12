@@ -61,7 +61,4 @@ freeline.py
 freeline/
 freeline_project_description.json
 >>>>>>> f0ca09f145f6f33c2fd9de5ae9cb2ab15a1be3bf
-app/libs/
-app/src/main/res/drawable/
-testlibrary/libs/
-testlibrary/src/main/res/drawable/
+

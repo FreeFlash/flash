@@ -1,11 +1,10 @@
-apply plugin: 'com.android.application'
-
+apply plugin: 'com.android.library'
+version 1.0
 android {
     compileSdkVersion 25
     buildToolsVersion "25.0.3"
 
     defaultConfig {
-        applicationId "com.tianxiaolei.flashwebview"
         minSdkVersion 21
         targetSdkVersion 25
         versionCode 1

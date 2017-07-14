@@ -1,1 +1,1 @@
-include ':app', ':testlibrary', ':FlashBanner-library'
+include ':app', ':testlibrary', ':FlashBanner-library', ':flashwebview'
